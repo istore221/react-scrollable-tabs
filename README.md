@@ -1,5 +1,5 @@
 # react-scrollable-tabs
-Scrollable tabs allow navigation between content.
+Mobile friendly scrollable tabs allow navigation between content.
 
 ![ScreenShot](https://s3-ap-southeast-1.amazonaws.com/custo.furniture/ezgif-3-83ce3824c870.gif)
 
