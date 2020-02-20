@@ -1,7 +1,7 @@
 # react-scrollable-tabs
 Mobile friendly scrollable tabs allow navigation between content.
 
-![ScreenShot](https://s3-ap-southeast-1.amazonaws.com/custo.furniture/ezgif-3-83ce3824c870.gif)
+![ScreenShot](https://res.cloudinary.com/dl0kmjyls/image/upload/v1582194331/react-scrollable-plugin/ezgif-3-83ce3824c870.gif)
 
 ## Basic usage
 ```javascript
