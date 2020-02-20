@@ -1,7 +1,7 @@
 # react-scrollable-tabs
 Scrollable tabs allow navigation between content.
 
-![ScreenShot](https://im3.ezgif.com/tmp/ezgif-3-5a30b59cfe51.gif)
+![ScreenShot](https://im3.ezgif.com/tmp/ezgif-3-83ce3824c870.gif)
 
 ## Basic usage
 ```javascript
