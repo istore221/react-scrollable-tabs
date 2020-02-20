@@ -3,7 +3,7 @@ Scrollable tabs allow navigation between content.
 
 ![ScreenShot](https://s3-ap-southeast-1.amazonaws.com/custo.furniture/ezgif-3-527935a93cfa.gif)
 
-### Basic usage
+## Basic usage
 ```javascript
 import React from "react";
 import styled from 'styled-components';
@@ -60,3 +60,8 @@ export default class ReactScrollableTabsTest extends React.Component{
 
 ```
 
+## Contribution
+
+**Issues** are welcome. Please add a screenshot of bug and code snippet. Quickest way to solve issue is to reproduce it on one of the examples.
+
+**Pull requests** are welcome. If you want to change API or making something big better to create issue and discuss it first. Before submiting PR please run ```eslint .``` Also all eslint fixes are welcome.
