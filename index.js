@@ -1,6 +1,6 @@
 import React from "React";
 import styled from "styled-components";
-import {THEMES} from '../../constants';
+import {THEMES} from './constants';
 
 
 const FIXED_VARS = {
